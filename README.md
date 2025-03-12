@@ -9,7 +9,7 @@
     Identifies the lowest points of segmented objects near a vertical centerline.
 
 > * code explanation *
-  ### mains imports 
+  - mains imports 
     - ~~~
     from ultralytics import YOLO
     import cv2, numpy as np, torch
