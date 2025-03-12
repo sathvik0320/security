@@ -1,3 +1,2 @@
-# security
-#this for some pentesting topics 
-#write ups for different topics are listed  
+# Documentation main.py (perception)
+  
